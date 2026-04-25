@@ -1,3 +1,3 @@
 ## Sonsgs
 
-[[Anthropods|Anthropods.tab]]
+[Anthropods](Anthropods.tab)
